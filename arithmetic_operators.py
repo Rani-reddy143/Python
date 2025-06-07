@@ -1,0 +1,10 @@
+a=int(input("enter a value"))
+b=int(input("enter b value"))
+print("add of two numbers",a+b)
+print("sub of two numbers",a-b)
+print("multiply of two numbers",a*b)
+print("division of two numbers",a/b)
+print("modulas of two numbers",a%b)
+#and also we have extra operators like floor_division and exponent
+print("floor_divison of two numbers",a//b)
+print("exponent of two numbers",a^b)
